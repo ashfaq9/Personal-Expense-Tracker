@@ -58,7 +58,7 @@ Set up Continuous Integration and Continuous Deployment (CI/CD) pipelines for au
 Run Locally
 Clone the project
 
-  git clone https://github.com/ashfaq9/Mern-Stack
+  git clone https://github.com/ashfaq9/Personal-Expense-Tracker
 Go to the project directory
 
   cd Expense-Tracker-App
